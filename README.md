@@ -77,19 +77,19 @@ a) At first the data collected is visualized using some statistical values using
 
 b) Plotted graphs on relations between different variables.
 
-- Price v/s Mileage
+- **Price v/s Mileage**
 
 ![](images/price_vs_mileage.png)
 
-- Segment v/s Price
+- **Segment v/s Price**
 
 ![](images/segment_vs_price.png)
 
-- Fuel Types proportion
+- **Fuel Types proportion**
 
 ![](images/fuel_types.png)
 
-- Feature Correlation
+- **Feature Correlation**
 
 ![](images/correlation.png)
 
