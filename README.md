@@ -28,8 +28,6 @@ Achieved an RMSLE(root mean squared log error) score = 0.03488305748337859 and A
 
 - **Model creation and evaluation.ipynb:** The Jupyter notebook where different Machine Learning models were tested and evaluated.
 
-- **Testing model performance:** The Jupyter notebook where the model can be tested for new data.
-
 - **Model.py:** Python file to recreate the model. Simply run it and the model will be created again.
 
 - **CatBoostRegressor.pickle:** Pickle file of the model object.
@@ -43,7 +41,7 @@ Achieved an RMSLE(root mean squared log error) score = 0.03488305748337859 and A
 **Packages Used:** pandas, numpy, matplotlib, seaborn, sklearn, pickle.
 
 
-## **Project architecture: **
+## **Project architecture:**
 
 - **Exploratory Data Analysis**
 
